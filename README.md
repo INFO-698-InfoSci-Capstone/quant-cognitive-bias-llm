@@ -26,10 +26,6 @@ The project combines traditional trust games with the complex social dynamics of
 │   └── logs/                          # Experiment logs
 │
 ├── notebooks/                         # Jupyter notebooks
-│
-├── LICENSE                           # GPL v3 License
-├── CONDUCT.md                        # Code of Conduct
-└── DESCRIPTION                       # Project description
 ```
 
 ## Setup and Installation

@@ -1,0 +1,3044 @@
+[
+  {
+    "chi2": 35999988.360001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.94,
+      0.06
+    ],
+    "persona": "gender is female, race is caucasian",
+    "gender": "female",
+    "race": "caucasian",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.94,
+    "distrust_estimate_probability_distribution": 0.06,
+    "trust_delta": -0.06000000000000005,
+    "distrust_delta": 0.059999989999999996,
+    "trust_bias": -0.06000000000000005,
+    "distrust_bias": 0.059999989999999996,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.03161870503597125,
+      -0.0283812949640288,
+      0
+    ],
+    "distrust_vector": [
+      0.009545452954545454,
+      0.050454537045454544,
+      0
+    ]
+  },
+  {
+    "chi2": 80999982.81000102,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.91,
+      0.09
+    ],
+    "persona": "gender is female, race is caucasian, ethnicity is hispanic",
+    "gender": "female",
+    "race": "caucasian",
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 0.91,
+    "distrust_estimate_probability_distribution": 0.09,
+    "trust_delta": -0.08999999999999997,
+    "distrust_delta": 0.08999999,
+    "trust_bias": -0.08999999999999997,
+    "distrust_bias": 0.08999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.03150537634408601,
+      -0.028279569892473107,
+      -0.03021505376344085
+    ],
+    "distrust_vector": [
+      0.009999998888888889,
+      0.05285713698412698,
+      0.02714285412698413
+    ]
+  },
+  {
+    "chi2": 195999973.96000108,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.86,
+      0.14
+    ],
+    "persona": "gender is male, race is caucasian, ethnicity is hispanic",
+    "gender": "male",
+    "race": "caucasian",
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 0.86,
+    "distrust_estimate_probability_distribution": 0.14,
+    "trust_delta": -0.14,
+    "distrust_delta": 0.13999999000000002,
+    "trust_bias": -0.14,
+    "distrust_bias": 0.13999999000000002,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.04900836320191159,
+      -0.04399044205495818,
+      -0.047001194743130234
+    ],
+    "distrust_vector": [
+      0.015555554444444444,
+      0.08222221634920635,
+      0.04222221920634921
+    ]
+  },
+  {
+    "chi2": 783999951.8400012,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.72,
+      0.28
+    ],
+    "persona": "gender is male, race is caucasian, ethnicity is hispanic",
+    "gender": "male",
+    "race": "caucasian",
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 0.72,
+    "distrust_estimate_probability_distribution": 0.28,
+    "trust_delta": -0.28,
+    "distrust_delta": 0.27999999000000003,
+    "trust_bias": -0.28,
+    "distrust_bias": 0.27999999000000003,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.09801672640382318,
+      -0.08798088410991636,
+      -0.09400238948626047
+    ],
+    "distrust_vector": [
+      0.03111111,
+      0.1644444385714286,
+      0.08444444142857144
+    ]
+  },
+  {
+    "chi2": 8999994.090001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.97,
+      0.03
+    ],
+    "persona": "gender is male, race is black",
+    "gender": "male",
+    "race": "black",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.97,
+    "distrust_estimate_probability_distribution": 0.03,
+    "trust_delta": -0.030000000000000027,
+    "distrust_delta": 0.029999989999999997,
+    "trust_bias": -0.030000000000000027,
+    "distrust_bias": 0.029999989999999997,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.015809352517985625,
+      -0.0141906474820144,
+      0
+    ],
+    "distrust_vector": [
+      0.004772725681818182,
+      0.025227264318181817,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, ethnicity is hispanic",
+    "gender": "female",
+    "race": null,
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 35999988.360001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.94,
+      0.06
+    ],
+    "persona": "race is caucasian",
+    "gender": null,
+    "race": "caucasian",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.94,
+    "distrust_estimate_probability_distribution": 0.06,
+    "trust_delta": -0.06000000000000005,
+    "distrust_delta": 0.059999989999999996,
+    "trust_bias": -0.06000000000000005,
+    "distrust_bias": 0.059999989999999996,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      -0.06000000000000005,
+      0
+    ],
+    "distrust_vector": [
+      0,
+      0.059999989999999996,
+      0
+    ]
+  },
+  {
+    "chi2": 80999982.81000102,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.91,
+      0.09
+    ],
+    "persona": "gender is female, race is caucasian",
+    "gender": "female",
+    "race": "caucasian",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.91,
+    "distrust_estimate_probability_distribution": 0.09,
+    "trust_delta": -0.08999999999999997,
+    "distrust_delta": 0.08999999,
+    "trust_bias": -0.08999999999999997,
+    "distrust_bias": 0.08999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.047428057553956814,
+      -0.04257194244604315,
+      0
+    ],
+    "distrust_vector": [
+      0.014318180227272728,
+      0.07568180977272727,
+      0
+    ]
+  },
+  {
+    "chi2": 120999979.21000102,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.89,
+      0.11
+    ],
+    "persona": "gender is female",
+    "gender": "female",
+    "race": null,
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.89,
+    "distrust_estimate_probability_distribution": 0.11,
+    "trust_delta": -0.10999999999999999,
+    "distrust_delta": 0.10999999,
+    "trust_bias": -0.10999999999999999,
+    "distrust_bias": 0.10999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.10999999999999999,
+      0,
+      0
+    ],
+    "distrust_vector": [
+      0.10999999,
+      0,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, race is caucasian, ethnicity is asian",
+    "gender": "female",
+    "race": "caucasian",
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 80999982.81000102,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.91,
+      0.09
+    ],
+    "persona": "gender is male, race is caucasian",
+    "gender": "male",
+    "race": "caucasian",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.91,
+    "distrust_estimate_probability_distribution": 0.09,
+    "trust_delta": -0.08999999999999997,
+    "distrust_delta": 0.08999999,
+    "trust_bias": -0.08999999999999997,
+    "distrust_bias": 0.08999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.047428057553956814,
+      -0.04257194244604315,
+      0
+    ],
+    "distrust_vector": [
+      0.014318180227272728,
+      0.07568180977272727,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is male, race is caucasian, ethnicity is asian",
+    "gender": "male",
+    "race": "caucasian",
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female",
+    "gender": "female",
+    "race": null,
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0
+    ]
+  },
+  {
+    "chi2": 35999988.360001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.94,
+      0.06
+    ],
+    "persona": "ethnicity is african american",
+    "gender": null,
+    "race": null,
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 0.94,
+    "distrust_estimate_probability_distribution": 0.06,
+    "trust_delta": -0.06000000000000005,
+    "distrust_delta": 0.059999989999999996,
+    "trust_bias": -0.06000000000000005,
+    "distrust_bias": 0.059999989999999996,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0,
+      -0.06000000000000005
+    ],
+    "distrust_vector": [
+      0,
+      0,
+      0.059999989999999996
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "race is caucasian, ethnicity is hispanic",
+    "gender": null,
+    "race": "caucasian",
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "race is black, ethnicity is african american",
+    "gender": null,
+    "race": "black",
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, ethnicity is african american",
+    "gender": "female",
+    "race": null,
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, ethnicity is asian",
+    "gender": "female",
+    "race": null,
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, race is black, ethnicity is african american",
+    "gender": "female",
+    "race": "black",
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, ethnicity is asian",
+    "gender": "female",
+    "race": null,
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 99999981.00000103,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.9,
+      0.1
+    ],
+    "persona": "ethnicity is hispanic",
+    "gender": null,
+    "race": null,
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 0.9,
+    "distrust_estimate_probability_distribution": 0.1,
+    "trust_delta": -0.09999999999999998,
+    "distrust_delta": 0.09999999000000001,
+    "trust_bias": -0.09999999999999998,
+    "distrust_bias": 0.09999999000000001,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0,
+      -0.09999999999999998
+    ],
+    "distrust_vector": [
+      0,
+      0,
+      0.09999999000000001
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "race is black",
+    "gender": null,
+    "race": "black",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0.0,
+      0
+    ],
+    "distrust_vector": [
+      0,
+      0.0,
+      0
+    ]
+  },
+  {
+    "chi2": 575999957.760001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.76,
+      0.24
+    ],
+    "persona": "gender is male, race is black",
+    "gender": "male",
+    "race": "black",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.76,
+    "distrust_estimate_probability_distribution": 0.24,
+    "trust_delta": -0.24,
+    "distrust_delta": 0.23999999,
+    "trust_bias": -0.24,
+    "distrust_bias": 0.23999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.1264748201438849,
+      -0.1135251798561151,
+      0
+    ],
+    "distrust_vector": [
+      0.03818181659090909,
+      0.20181817340909092,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, race is black",
+    "gender": "female",
+    "race": "black",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is male",
+    "gender": "male",
+    "race": null,
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0
+    ]
+  },
+  {
+    "chi2": 575999957.760001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.76,
+      0.24
+    ],
+    "persona": "race is black",
+    "gender": null,
+    "race": "black",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.76,
+    "distrust_estimate_probability_distribution": 0.24,
+    "trust_delta": -0.24,
+    "distrust_delta": 0.23999999,
+    "trust_bias": -0.24,
+    "distrust_bias": 0.23999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      -0.24,
+      0
+    ],
+    "distrust_vector": [
+      0,
+      0.23999999,
+      0
+    ]
+  },
+  {
+    "chi2": 728999953.2900009,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.73,
+      0.27
+    ],
+    "persona": "race is caucasian",
+    "gender": null,
+    "race": "caucasian",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.73,
+    "distrust_estimate_probability_distribution": 0.27,
+    "trust_delta": -0.27,
+    "distrust_delta": 0.26999999,
+    "trust_bias": -0.27,
+    "distrust_bias": 0.26999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      -0.27,
+      0
+    ],
+    "distrust_vector": [
+      0,
+      0.26999999,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, ethnicity is hispanic",
+    "gender": "female",
+    "race": null,
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, race is caucasian, ethnicity is asian",
+    "gender": "female",
+    "race": "caucasian",
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 99999981.00000103,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.9,
+      0.1
+    ],
+    "persona": "ethnicity is hispanic",
+    "gender": null,
+    "race": null,
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 0.9,
+    "distrust_estimate_probability_distribution": 0.1,
+    "trust_delta": -0.09999999999999998,
+    "distrust_delta": 0.09999999000000001,
+    "trust_bias": -0.09999999999999998,
+    "distrust_bias": 0.09999999000000001,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0,
+      -0.09999999999999998
+    ],
+    "distrust_vector": [
+      0,
+      0,
+      0.09999999000000001
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is male",
+    "gender": "male",
+    "race": null,
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, ethnicity is hispanic",
+    "gender": "female",
+    "race": null,
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female",
+    "gender": "female",
+    "race": null,
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is male, ethnicity is african american",
+    "gender": "male",
+    "race": null,
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 35999988.360001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.94,
+      0.06
+    ],
+    "persona": "gender is female, race is black",
+    "gender": "female",
+    "race": "black",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.94,
+    "distrust_estimate_probability_distribution": 0.06,
+    "trust_delta": -0.06000000000000005,
+    "distrust_delta": 0.059999989999999996,
+    "trust_bias": -0.06000000000000005,
+    "distrust_bias": 0.059999989999999996,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.03161870503597125,
+      -0.0283812949640288,
+      0
+    ],
+    "distrust_vector": [
+      0.009545452954545454,
+      0.050454537045454544,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, ethnicity is african american",
+    "gender": "female",
+    "race": null,
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "ethnicity is hispanic",
+    "gender": null,
+    "race": null,
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 120999979.21000102,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.89,
+      0.11
+    ],
+    "persona": "gender is female, race is caucasian, ethnicity is asian",
+    "gender": "female",
+    "race": "caucasian",
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 0.89,
+    "distrust_estimate_probability_distribution": 0.11,
+    "trust_delta": -0.10999999999999999,
+    "distrust_delta": 0.10999999,
+    "trust_bias": -0.10999999999999999,
+    "distrust_bias": 0.10999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.038506571087216244,
+      -0.03456391875746714,
+      -0.036929510155316606
+    ],
+    "distrust_vector": [
+      0.012222221111111112,
+      0.06460316873015873,
+      0.03317460015873016
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is male, race is caucasian, ethnicity is hispanic",
+    "gender": "male",
+    "race": "caucasian",
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 48999986.490001015,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.93,
+      0.07
+    ],
+    "persona": "race is caucasian, ethnicity is asian",
+    "gender": null,
+    "race": "caucasian",
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 0.93,
+    "distrust_estimate_probability_distribution": 0.07,
+    "trust_delta": -0.06999999999999995,
+    "distrust_delta": 0.06999999000000001,
+    "trust_bias": -0.06999999999999995,
+    "distrust_bias": 0.06999999000000001,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      -0.033841911764705856,
+      -0.036158088235294095
+    ],
+    "distrust_vector": [
+      0,
+      0.04624999339285715,
+      0.023749996607142863
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is male, ethnicity is asian",
+    "gender": "male",
+    "race": null,
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, race is black, ethnicity is african american",
+    "gender": "female",
+    "race": "black",
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, ethnicity is african american",
+    "gender": "female",
+    "race": null,
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 120999979.21000102,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.89,
+      0.11
+    ],
+    "persona": "gender is male, ethnicity is asian",
+    "gender": "male",
+    "race": null,
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 0.89,
+    "distrust_estimate_probability_distribution": 0.11,
+    "trust_delta": -0.10999999999999999,
+    "distrust_delta": 0.10999999,
+    "trust_bias": -0.10999999999999999,
+    "distrust_bias": 0.10999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.056149825783972124,
+      0,
+      -0.05385017421602787
+    ],
+    "distrust_vector": [
+      0.029615381923076927,
+      0,
+      0.08038460807692309
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, race is caucasian",
+    "gender": "female",
+    "race": "caucasian",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "race is black, ethnicity is african american",
+    "gender": null,
+    "race": "black",
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 35999988.360001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.94,
+      0.06
+    ],
+    "persona": "gender is male, ethnicity is african american",
+    "gender": "male",
+    "race": null,
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 0.94,
+    "distrust_estimate_probability_distribution": 0.06,
+    "trust_delta": -0.06000000000000005,
+    "distrust_delta": 0.059999989999999996,
+    "trust_bias": -0.06000000000000005,
+    "distrust_bias": 0.059999989999999996,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.030627177700348462,
+      0,
+      -0.029372822299651595
+    ],
+    "distrust_vector": [
+      0.01615384346153846,
+      0,
+      0.043846146538461535
+    ]
+  },
+  {
+    "chi2": 255999970.56000105,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.84,
+      0.16
+    ],
+    "persona": "ethnicity is african american",
+    "gender": null,
+    "race": null,
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 0.84,
+    "distrust_estimate_probability_distribution": 0.16,
+    "trust_delta": -0.16000000000000003,
+    "distrust_delta": 0.15999999,
+    "trust_bias": -0.16000000000000003,
+    "distrust_bias": 0.15999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0,
+      -0.16000000000000003
+    ],
+    "distrust_vector": [
+      0,
+      0,
+      0.15999999
+    ]
+  },
+  {
+    "chi2": 120999979.21000102,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.89,
+      0.11
+    ],
+    "persona": "gender is male, race is caucasian, ethnicity is asian",
+    "gender": "male",
+    "race": "caucasian",
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 0.89,
+    "distrust_estimate_probability_distribution": 0.11,
+    "trust_delta": -0.10999999999999999,
+    "distrust_delta": 0.10999999,
+    "trust_bias": -0.10999999999999999,
+    "distrust_bias": 0.10999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.038506571087216244,
+      -0.03456391875746714,
+      -0.036929510155316606
+    ],
+    "distrust_vector": [
+      0.012222221111111112,
+      0.06460316873015873,
+      0.03317460015873016
+    ]
+  },
+  {
+    "chi2": 15999992.160001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.96,
+      0.04
+    ],
+    "persona": "gender is female, race is caucasian, ethnicity is hispanic",
+    "gender": "female",
+    "race": "caucasian",
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 0.96,
+    "distrust_estimate_probability_distribution": 0.04,
+    "trust_delta": -0.040000000000000036,
+    "distrust_delta": 0.03999999,
+    "trust_bias": -0.040000000000000036,
+    "distrust_bias": 0.03999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.014002389486260466,
+      -0.012568697729988063,
+      -0.013428912783751504
+    ],
+    "distrust_vector": [
+      0.0044444433333333325,
+      0.023492057619047615,
+      0.012063489047619048
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "race is black, ethnicity is african american",
+    "gender": null,
+    "race": "black",
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 35999988.360001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.94,
+      0.06
+    ],
+    "persona": "gender is male, ethnicity is african american",
+    "gender": "male",
+    "race": null,
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 0.94,
+    "distrust_estimate_probability_distribution": 0.06,
+    "trust_delta": -0.06000000000000005,
+    "distrust_delta": 0.059999989999999996,
+    "trust_bias": -0.06000000000000005,
+    "distrust_bias": 0.059999989999999996,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.030627177700348462,
+      0,
+      -0.029372822299651595
+    ],
+    "distrust_vector": [
+      0.01615384346153846,
+      0,
+      0.043846146538461535
+    ]
+  },
+  {
+    "chi2": 80999982.81000102,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.91,
+      0.09
+    ],
+    "persona": "ethnicity is asian",
+    "gender": null,
+    "race": null,
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 0.91,
+    "distrust_estimate_probability_distribution": 0.09,
+    "trust_delta": -0.08999999999999997,
+    "distrust_delta": 0.08999999,
+    "trust_bias": -0.08999999999999997,
+    "distrust_bias": 0.08999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0,
+      -0.08999999999999997
+    ],
+    "distrust_vector": [
+      0,
+      0,
+      0.08999999
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "race is caucasian, ethnicity is asian",
+    "gender": null,
+    "race": "caucasian",
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 483999960.840001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.78,
+      0.22
+    ],
+    "persona": "gender is male, race is caucasian, ethnicity is asian",
+    "gender": "male",
+    "race": "caucasian",
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 0.78,
+    "distrust_estimate_probability_distribution": 0.22,
+    "trust_delta": -0.21999999999999997,
+    "distrust_delta": 0.21999999,
+    "trust_bias": -0.21999999999999997,
+    "distrust_bias": 0.21999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.07701314217443249,
+      -0.06912783751493427,
+      -0.07385902031063321
+    ],
+    "distrust_vector": [
+      0.024444443333333336,
+      0.12920634333333333,
+      0.06634920333333334
+    ]
+  },
+  {
+    "chi2": 48999986.490001015,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.93,
+      0.07
+    ],
+    "persona": "gender is male, ethnicity is hispanic",
+    "gender": "male",
+    "race": null,
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 0.93,
+    "distrust_estimate_probability_distribution": 0.07,
+    "trust_delta": -0.06999999999999995,
+    "distrust_delta": 0.06999999000000001,
+    "trust_bias": -0.06999999999999995,
+    "distrust_bias": 0.06999999000000001,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.03573170731707315,
+      0,
+      -0.034268292682926804
+    ],
+    "distrust_vector": [
+      0.018846151153846157,
+      0,
+      0.05115383884615386
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "race is caucasian, ethnicity is hispanic",
+    "gender": null,
+    "race": "caucasian",
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 15999992.160001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.96,
+      0.04
+    ],
+    "persona": "gender is male, ethnicity is asian",
+    "gender": "male",
+    "race": null,
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 0.96,
+    "distrust_estimate_probability_distribution": 0.04,
+    "trust_delta": -0.040000000000000036,
+    "distrust_delta": 0.03999999,
+    "trust_bias": -0.040000000000000036,
+    "distrust_bias": 0.03999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.020418118466898973,
+      0,
+      -0.019581881533101062
+    ],
+    "distrust_vector": [
+      0.010769228076923076,
+      0,
+      0.029230761923076925
+    ]
+  },
+  {
+    "chi2": 840999950.4100007,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.71,
+      0.29
+    ],
+    "persona": "gender is male, race is black",
+    "gender": "male",
+    "race": "black",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.71,
+    "distrust_estimate_probability_distribution": 0.29,
+    "trust_delta": -0.29000000000000004,
+    "distrust_delta": 0.28999999,
+    "trust_bias": -0.29000000000000004,
+    "distrust_bias": 0.28999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.15282374100719429,
+      -0.13717625899280578,
+      0
+    ],
+    "distrust_vector": [
+      0.04613636204545454,
+      0.24386362795454544,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, race is black, ethnicity is african american",
+    "gender": "female",
+    "race": "black",
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 24999990.250001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.95,
+      0.05
+    ],
+    "persona": "gender is male, race is black, ethnicity is african american",
+    "gender": "male",
+    "race": "black",
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 0.95,
+    "distrust_estimate_probability_distribution": 0.05,
+    "trust_delta": -0.050000000000000044,
+    "distrust_delta": 0.04999999,
+    "trust_bias": -0.050000000000000044,
+    "distrust_bias": 0.04999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.017502986857825583,
+      -0.015710872162485078,
+      -0.01678614097968938
+    ],
+    "distrust_vector": [
+      0.005555554444444445,
+      0.02936507349206349,
+      0.015079362063492065
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "ethnicity is african american",
+    "gender": null,
+    "race": null,
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 999998.010001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.99,
+      0.01
+    ],
+    "persona": "gender is male, race is caucasian",
+    "gender": "male",
+    "race": "caucasian",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.99,
+    "distrust_estimate_probability_distribution": 0.01,
+    "trust_delta": -0.010000000000000009,
+    "distrust_delta": 0.00999999,
+    "trust_bias": -0.010000000000000009,
+    "distrust_bias": 0.00999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.005269784172661876,
+      -0.004730215827338134,
+      0
+    ],
+    "distrust_vector": [
+      0.0015909075,
+      0.0084090825,
+      0
+    ]
+  },
+  {
+    "chi2": 288999968.89000094,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.83,
+      0.17
+    ],
+    "persona": "race is black",
+    "gender": null,
+    "race": "black",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.83,
+    "distrust_estimate_probability_distribution": 0.17,
+    "trust_delta": -0.17000000000000004,
+    "distrust_delta": 0.16999999000000002,
+    "trust_bias": -0.17000000000000004,
+    "distrust_bias": 0.16999999000000002,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      -0.17000000000000004,
+      0
+    ],
+    "distrust_vector": [
+      0,
+      0.16999999000000002,
+      0
+    ]
+  },
+  {
+    "chi2": 195999973.96000108,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.86,
+      0.14
+    ],
+    "persona": "gender is male, race is black, ethnicity is african american",
+    "gender": "male",
+    "race": "black",
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 0.86,
+    "distrust_estimate_probability_distribution": 0.14,
+    "trust_delta": -0.14,
+    "distrust_delta": 0.13999999000000002,
+    "trust_bias": -0.14,
+    "distrust_bias": 0.13999999000000002,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.04900836320191159,
+      -0.04399044205495818,
+      -0.047001194743130234
+    ],
+    "distrust_vector": [
+      0.015555554444444444,
+      0.08222221634920635,
+      0.04222221920634921
+    ]
+  },
+  {
+    "chi2": 168999975.69000104,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.87,
+      0.13
+    ],
+    "persona": "race is caucasian, ethnicity is hispanic",
+    "gender": null,
+    "race": "caucasian",
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 0.87,
+    "distrust_estimate_probability_distribution": 0.13,
+    "trust_delta": -0.13,
+    "distrust_delta": 0.12999999,
+    "trust_bias": -0.13,
+    "distrust_bias": 0.12999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      -0.06284926470588235,
+      -0.06715073529411765
+    ],
+    "distrust_vector": [
+      0,
+      0.0858928505357143,
+      0.044107139464285725
+    ]
+  },
+  {
+    "chi2": 8999994.090001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.97,
+      0.03
+    ],
+    "persona": "gender is male",
+    "gender": "male",
+    "race": null,
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.97,
+    "distrust_estimate_probability_distribution": 0.03,
+    "trust_delta": -0.030000000000000027,
+    "distrust_delta": 0.029999989999999997,
+    "trust_bias": -0.030000000000000027,
+    "distrust_bias": 0.029999989999999997,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.030000000000000027,
+      0,
+      0
+    ],
+    "distrust_vector": [
+      0.029999989999999997,
+      0,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, race is caucasian, ethnicity is hispanic",
+    "gender": "female",
+    "race": "caucasian",
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is male, race is black, ethnicity is african american",
+    "gender": "male",
+    "race": "black",
+    "ethnicity": "african american",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "race is caucasian",
+    "gender": null,
+    "race": "caucasian",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0.0,
+      0
+    ],
+    "distrust_vector": [
+      0,
+      0.0,
+      0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is male, ethnicity is hispanic",
+    "gender": "male",
+    "race": null,
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 8999994.090001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.97,
+      0.03
+    ],
+    "persona": "gender is male, ethnicity is hispanic",
+    "gender": "male",
+    "race": null,
+    "ethnicity": "hispanic",
+    "trust_estimate_probability_distribution": 0.97,
+    "distrust_estimate_probability_distribution": 0.03,
+    "trust_delta": -0.030000000000000027,
+    "distrust_delta": 0.029999989999999997,
+    "trust_bias": -0.030000000000000027,
+    "distrust_bias": 0.029999989999999997,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.015313588850174231,
+      0,
+      -0.014686411149825798
+    ],
+    "distrust_vector": [
+      0.008076920384615384,
+      0,
+      0.021923069615384615
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "gender is female, ethnicity is asian",
+    "gender": "female",
+    "race": null,
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0.0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0.0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "ethnicity is asian",
+    "gender": null,
+    "race": null,
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0,
+      0.0
+    ]
+  },
+  {
+    "chi2": 99999981.00000103,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.9,
+      0.1
+    ],
+    "persona": "gender is female, race is black",
+    "gender": "female",
+    "race": "black",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.9,
+    "distrust_estimate_probability_distribution": 0.1,
+    "trust_delta": -0.09999999999999998,
+    "distrust_delta": 0.09999999000000001,
+    "trust_bias": -0.09999999999999998,
+    "distrust_bias": 0.09999999000000001,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.0526978417266187,
+      -0.04730215827338129,
+      0
+    ],
+    "distrust_vector": [
+      0.015909089318181822,
+      0.0840909006818182,
+      0
+    ]
+  },
+  {
+    "chi2": 360999965.61000097,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.81,
+      0.19
+    ],
+    "persona": "gender is male, race is caucasian",
+    "gender": "male",
+    "race": "caucasian",
+    "ethnicity": null,
+    "trust_estimate_probability_distribution": 0.81,
+    "distrust_estimate_probability_distribution": 0.19,
+    "trust_delta": -0.18999999999999995,
+    "distrust_delta": 0.18999999,
+    "trust_bias": -0.18999999999999995,
+    "distrust_bias": 0.18999999,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      -0.10012589928057553,
+      -0.08987410071942444,
+      0
+    ],
+    "distrust_vector": [
+      0.030227271136363643,
+      0.1597727188636364,
+      0
+    ]
+  },
+  {
+    "chi2": 35999988.360001,
+    "p_value": 0.0,
+    "dof": 1,
+    "is_significant": true,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      0.94,
+      0.06
+    ],
+    "persona": "ethnicity is asian",
+    "gender": null,
+    "race": null,
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 0.94,
+    "distrust_estimate_probability_distribution": 0.06,
+    "trust_delta": -0.06000000000000005,
+    "distrust_delta": 0.059999989999999996,
+    "trust_bias": -0.06000000000000005,
+    "distrust_bias": 0.059999989999999996,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0,
+      -0.06000000000000005
+    ],
+    "distrust_vector": [
+      0,
+      0,
+      0.059999989999999996
+    ]
+  },
+  {
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "dof": 1,
+    "is_significant": false,
+    "expected": [
+      1.0,
+      1e-08
+    ],
+    "observed": [
+      1.0,
+      1e-08
+    ],
+    "persona": "race is caucasian, ethnicity is asian",
+    "gender": null,
+    "race": "caucasian",
+    "ethnicity": "asian",
+    "trust_estimate_probability_distribution": 1.0,
+    "distrust_estimate_probability_distribution": 0.0,
+    "trust_delta": 0.0,
+    "distrust_delta": 0.0,
+    "trust_bias": 0.0,
+    "distrust_bias": 0.0,
+    "vector_order": [
+      "gender",
+      "race",
+      "ethnicity"
+    ],
+    "trust_vector": [
+      0,
+      0.0,
+      0.0
+    ],
+    "distrust_vector": [
+      0,
+      0.0,
+      0.0
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+[submodule "Quantifying-Cognitive-bias-in-LLMs"]
+	path = Quantifying-Cognitive-bias-in-LLMs
+	url = https://github.com/vsatyamuralikrishna/Quantifying-Cognitive-Bias-in-LLMs.git

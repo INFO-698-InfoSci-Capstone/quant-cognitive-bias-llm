@@ -22,42 +22,48 @@ Each model's results are stored in separate JSON files in the notebooks director
 - `notebooks/bias_scores.json`: Aggregated bias scores across all models
 
 ### all_results.json
-This file contains the aggregated results from all LLM model simulations.
+This file contains the aggregated results from all LLM model simulations. Each prompt is run multiple times to ensure statistical significance.
 
 #### Data Format
 - JSON format containing simulation results
-- Includes responses and decisions from different LLM models
-- Contains demographic and role-based interaction data
+- Includes demographic information and persona details
+- Contains multiple responses for each prompt
+- Includes timestamps and execution details
 
 #### Key Components
-- Model responses
-- Decision patterns
-- Demographic information
-- Role assignments
-- Interaction outcomes
+- Demographic information (gender, race, ethnicity)
+- Persona details and prompt information
+- Multiple responses per prompt
+- Decision and reasoning for each response
+- Timestamps and execution metadata
 
 #### JSON Structure
 ```json
 {
-    "model_name": "string",
-    "simulation_id": "string",
+    "gender": "string",
+    "race": "string",
+    "ethnicity": "string or null",
+    "persona": "string",
+    "style": "string",
+    "prompt_name": "string",
+    "prompt_id": "string",
+    "execution_id": "string",
+    "date": "string",
+    "time": "string",
     "timestamp": "string",
-    "demographic_info": {
-        "role": "string",
-        "demographic": "string"
-    },
-    "interactions": [
-        {
-            "round": "integer",
-            "decision": "string",
-            "confidence": "float",
-            "reasoning": "string"
-        }
-    ],
-    "bias_metrics": {
-        "trust_score": "float",
-        "decision_bias": "float",
-        "demographic_bias": "float"
+    "prompt_responses": {
+        "responses": [
+            {
+                "id": "string",
+                "response_text": "string",
+                "decision": "string",
+                "reason": "string",
+                "response": "boolean",
+                "iteration": "integer",
+                "response_time": "float",
+                "timestamp": "string"
+            }
+        ]
     }
 }
 ```
@@ -70,7 +76,7 @@ The data was collected through SLURM batch jobs running multiple LLM models:
 - Phi model simulations
 - Mistral model simulations
 
-Each model was run through SLURM batch jobs to ensure efficient and parallel processing of the simulations.
+Each model was run through SLURM batch jobs to ensure efficient and parallel processing of the simulations. Each prompt is executed multiple times to gather statistically significant results.
 
 ## Data Usage
 This data is used for:
